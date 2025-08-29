@@ -18,7 +18,7 @@ The project focuses on **responsive design** and **clean UI styling** to closely
 ## Tech Stack
 - **HTML** – Structure of the webpage.
 - **CSS** – Styling, layout, and responsiveness.
-
+#Live Demo:  https://shrishti08012004.github.io/Amazone_Clone/
 ---
 Created for learning purposes to practice HTML & CSS layout design.
 
